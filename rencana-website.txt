@@ -1,0 +1,3 @@
+RENCANA:
+- Membuat Website Kelas Saya sendiri menggunakan NextJS & TailwindCSS
+- Sering-sering membuat website portfolio dari berbagai sumber
