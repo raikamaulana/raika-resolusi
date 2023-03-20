@@ -7,3 +7,6 @@ RENCANA:
 - Database RestFul API
 - Menghubungkan Database ke Project Website Kelas
   * cth: Database MongoDB
+- JavaScript
+  * Framework JavaScript
+    ^ Vuejs
