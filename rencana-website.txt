@@ -4,3 +4,6 @@ RENCANA:
   * Menampilkan data data Anggota Kelas
   * Membuat Halaman Gallery dengan isi foto kelas
 - Sering-sering membuat website portfolio dari berbagai sumber
+- Database RestFul API
+- Menghubungkan Database ke Project Website Kelas
+  * cth: Database MongoDB
