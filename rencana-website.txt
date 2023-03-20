@@ -1,3 +1,6 @@
 RENCANA:
 - Membuat Website Kelas Saya sendiri menggunakan NextJS & TailwindCSS
+  * Dengan modern design & responsive design
+  * Menampilkan data data Anggota Kelas
+  * Membuat Halaman Gallery dengan isi foto kelas
 - Sering-sering membuat website portfolio dari berbagai sumber
